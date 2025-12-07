@@ -1,0 +1,9 @@
+.info {
+    background-color: pink;
+    color: rgb(123, 123, 225);
+    text-align: center;
+}
+
+.textUper {
+    text-transform: uppercase;
+}
